@@ -51,8 +51,8 @@ const int timeZone = 1;     // Central European Time
 //const int timeZone = -8;  // Pacific Standard Time (USA)
 //const int timeZone = -7;  // Pacific Daylight Time (USA)
 
-unsigned long counterChannelNumber = 211724;            // Channel ID
-const char * myCounterReadAPIKey = "YFTPSFODDBITXOEU"; // Read API Key
+unsigned long counterChannelNumber = ***********;            // Channel ID
+const char * myCounterReadAPIKey = "*****************"; // Read API Key
 const int FieldNumber1 = 1;
 const int FieldNumber2 = 2;
 int statusCode = 0;
